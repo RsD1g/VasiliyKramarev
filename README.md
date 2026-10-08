@@ -4,4 +4,4 @@
 - [Markdown](/markdown.md)
 - [Mermaid](/mermaid.md)
 - [Bash-Linux](/bash.md)
-- [Bashscript](/bachscript.md)
+- [Bashscript](/bashscript.md)
