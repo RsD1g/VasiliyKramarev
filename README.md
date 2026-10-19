@@ -10,3 +10,4 @@
 - [Bashscript](/bashscript.md)
 - [Git](/Git.md)
 ## Проекты
+[Аренда VR-Гарнитуры](https://github.com/RsD1g/MySite/blob/main/README.md)
